@@ -32,11 +32,11 @@ const Header: React.FC = () => {
       <div className="bg-[#1a237e] text-white py-2">
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="hidden md:flex space-x-4 text-xs">
-            <a href="tel:+911234567890" className="hover:underline">
-              Helpline: +91 1234567890
+            <a href="tel:+918858891579" className="hover:underline">
+              Helpline: +91 8858891579
             </a>
-            <a href="mailto:info@bteup.in" className="hover:underline">
-              Email: info@bteup.in
+            <a href="ladityal149@gmail.com" className="hover:underline">
+              Email: contect
             </a>
           </div>
           <div className="flex items-center space-x-4">

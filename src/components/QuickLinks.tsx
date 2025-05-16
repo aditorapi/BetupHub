@@ -35,28 +35,28 @@ const QuickLinks: React.FC = () => {
       title: "Student Portal",
       description: "Login to your account",
       icon: <User size={24} className="text-white" />,
-      link: "/login",
+      link: "https://bteup.ac.in/Eseva/Outerpages/StudentAdminLogin.aspx",
       iconBgColor: "bg-[#00796b]"
     },
     {
       title: "Exam Schedule",
       description: "View upcoming exams",
       icon: <Calendar size={24} className="text-white" />,
-      link: "/examinations/timetable",
+      link: "https://bteup.ac.in/PDFFILES/NEWS_638828727830700051.pdf",
       iconBgColor: "bg-[#d32f2f]"
     },
     {
       title: "Courses",
       description: "Explore diploma programs",
       icon: <Award size={24} className="text-white" />,
-      link: "/courses",
+      link: "https://bteup.ac.in/webapp/Courses.aspx?type=main",
       iconBgColor: "bg-[#0277bd]"
     },
     {
       title: "Study Materials",
       description: "PDF , Privious Year Paper , More",
       icon: <BookOpen size={24} className="text-white" />,
-      link: "/certificates",
+      link: "/Materials",
       iconBgColor: "bg-[#7b1fa2]"
     },
     {

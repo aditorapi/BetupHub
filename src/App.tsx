@@ -7,11 +7,16 @@ import CoursesPage from './pages/CoursesPage';
 import ResultsPage from './pages/ResultsPage';
 import ContactPage from './pages/ContactPage';
 import NotFoundPage from './pages/NotFoundPage';
+import LoginPage from './pages/admin/LoginPage';
 
 function App() {
   return (
     <Router>
       <Routes>
+        {/* Admin Routes */}
+        <Route path="/admin/login" element={<LoginPage />} />
+        
+        {/* Public Routes */}
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
           <Route path="about" element={<AboutPage />} />

@@ -28,7 +28,7 @@ const QuickLinks: React.FC = () => {
       title: "Results",
       description: "Check examination results",
       icon: <FileText size={24} className="text-white" />,
-      link: "/results",
+      link: "https://result.bteexam.com/Odd_Semester/main/",
       iconBgColor: "bg-[#1a237e]"
     },
     {

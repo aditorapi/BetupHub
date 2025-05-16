@@ -48,7 +48,7 @@ const QuickLinks: React.FC = () => {
     {
       title: "Courses",
       description: "Explore diploma programs",
-      icon: <BookOpen size={24} className="text-white" />,
+      icon: <Award size={24} className="text-white" />,
       link: "/courses",
       iconBgColor: "bg-[#0277bd]"
     },

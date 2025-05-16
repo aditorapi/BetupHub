@@ -53,9 +53,9 @@ const QuickLinks: React.FC = () => {
       iconBgColor: "bg-[#0277bd]"
     },
     {
-      title: "Certificates",
+      title: "Study Materials",
       description: "Apply for certificates",
-      icon: <Award size={24} className="text-white" />,
+      icon: <BookOpen size={24} className="text-white" />,
       link: "/certificates",
       iconBgColor: "bg-[#7b1fa2]"
     },

@@ -54,7 +54,7 @@ const QuickLinks: React.FC = () => {
     },
     {
       title: "Study Materials",
-      description: "PDF,Privious Year Paper,More",
+      description: "PDF , Privious Year Paper , More",
       icon: <BookOpen size={24} className="text-white" />,
       link: "/certificates",
       iconBgColor: "bg-[#7b1fa2]"

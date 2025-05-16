@@ -35,7 +35,7 @@ const Header: React.FC = () => {
             <a href="tel:+918858891579" className="hover:underline">
               Helpline: +91 8858891579
             </a>
-            <a href="ladityal149@gmail.com" className="hover:underline">
+            <a href="mailto:ladityal149@gmail.com" className="hover:underline">
               Email: contect
             </a>
           </div>

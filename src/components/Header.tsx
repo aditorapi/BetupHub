@@ -40,7 +40,7 @@ const Header: React.FC = () => {
             </a>
           </div>
           <div className="flex items-center space-x-4">
-            <Link herf="https://bteup.ac.in/Eseva/Outerpages/StudentAdminLogin.aspx" className="flex items-center text-xs hover:underline">
+            <Link to="https://bteup.ac.in/Eseva/Outerpages/StudentAdminLogin.aspx" className="flex items-center text-xs hover:underline">
               <User size={14} className="mr-1" />
               Student Login
             </Link>
